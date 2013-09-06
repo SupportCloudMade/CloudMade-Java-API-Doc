@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/cogniance/!svn/ver/12302/CloudMade/developers/trunk/public/documentation/java-lib/com/cloudmade/api/routing
+END
+RouteSummary.html
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/cogniance/!svn/ver/12302/CloudMade/developers/trunk/public/documentation/java-lib/com/cloudmade/api/routing/RouteSummary.html
+END
+Route.html
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/cogniance/!svn/ver/12302/CloudMade/developers/trunk/public/documentation/java-lib/com/cloudmade/api/routing/Route.html
+END
+TransitPoint.html
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/cogniance/!svn/ver/12302/CloudMade/developers/trunk/public/documentation/java-lib/com/cloudmade/api/routing/TransitPoint.html
+END
+RouteInstruction.Direction.html
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/cogniance/!svn/ver/12302/CloudMade/developers/trunk/public/documentation/java-lib/com/cloudmade/api/routing/RouteInstruction.Direction.html
+END
+RouteInstruction.html
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/cogniance/!svn/ver/12302/CloudMade/developers/trunk/public/documentation/java-lib/com/cloudmade/api/routing/RouteInstruction.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/cogniance/!svn/ver/12302/CloudMade/developers/trunk/public/documentation/java-lib/com/cloudmade/api/routing/package-frame.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/cogniance/!svn/ver/12302/CloudMade/developers/trunk/public/documentation/java-lib/com/cloudmade/api/routing/package-summary.html
+END
+RouteInstruction.Turn.html
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/cogniance/!svn/ver/12302/CloudMade/developers/trunk/public/documentation/java-lib/com/cloudmade/api/routing/RouteInstruction.Turn.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/cogniance/!svn/ver/12302/CloudMade/developers/trunk/public/documentation/java-lib/com/cloudmade/api/routing/package-tree.html
+END
+RouteNotFoundException.html
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/cogniance/!svn/ver/12302/CloudMade/developers/trunk/public/documentation/java-lib/com/cloudmade/api/routing/RouteNotFoundException.html
+END
